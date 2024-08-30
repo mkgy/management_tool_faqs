@@ -130,8 +130,8 @@ php artisan key:generate <br />
 php artisan migrate <br />
 php artisan db:seed <br />
 
-npm run dev
-php artisan serve
+npm run dev <br>
+php artisan serve <br>
 
 ## Login details
 
